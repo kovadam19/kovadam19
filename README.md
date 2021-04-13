@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dr. Adam Kovacs
 - 👀 I’m interested in mechanical and agricultural engineering.
-- 🌱 I’m currently learning computer science and coding.
+- 🌱 I’m currently learning computer science and programming for fun.
 
 <!---
 kovadam19/kovadam19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
